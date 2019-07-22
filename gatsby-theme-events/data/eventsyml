@@ -1,35 +1,23 @@
-top three champions = [
-  {
-    "championLevel": 7,
-    "chestGranted": false,
-    "championPoints": 209603,
-    "championPointsSinceLastLevel": 188003,
-    "championPointsUntilNextLevel": 0,
-    "summonerId": "rx3esLeaR_4khhMkf5NNo_si18m4VWo-fYrGFRNPdCLMvkI",
-    "tokensEarned": 0,
-    "championId": 40,
-    "lastPlayTime": 1559359363000
-  },
-  {
-    "championLevel": 7,
-    "chestGranted": false,
-    "championPoints": 132012,
-    "championPointsSinceLastLevel": 110412,
-    "championPointsUntilNextLevel": 0,
-    "summonerId": "rx3esLeaR_4khhMkf5NNo_si18m4VWo-fYrGFRNPdCLMvkI",
-    "tokensEarned": 0,
-    "championId": 412,
-    "lastPlayTime": 1559504070000
-  },
-  {
-    "championLevel": 7,
-    "chestGranted": true,
-    "championPoints": 122019,
-    "championPointsSinceLastLevel": 100419,
-    "championPointsUntilNextLevel": 0,
-    "summonerId": "rx3esLeaR_4khhMkf5NNo_si18m4VWo-fYrGFRNPdCLMvkI",
-    "tokensEarned": 0,
-    "championId": 16,
-    "lastPlayTime": 1562142279000
-  }
-]
+- name: React Rally
+  location: Salt Lake City, UT
+  start_date: 2019-08-22
+  end_date: 2019-08-23
+  url: https://www.reactrally.com/
+
+- name: DinosaurJS
+  location: Denver, CO
+  start_date: 2019-06-20
+  end_date: 2019-06-21
+  url: https://dinosaurjs.org/
+
+- name: JSHeroes
+  location: Cluj-Napoca, Romania
+  start_date: 2020-04-23
+  end_date: 2020-04-24
+  url: https://jsheroes.io/
+
+- name: The Lead Developer
+  location: Austin, TX
+  start_date: 2019-11-08
+  end_date: 2019-11-08
+  url: https://austin2019.theleaddeveloper.com/
