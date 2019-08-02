@@ -1,6 +1,7 @@
 import React from 'react';
 import { Link } from 'gatsby';
 
+
 const EventList = ({ events }) => (
   <>
     <h1>Upcoming Events</h1>
