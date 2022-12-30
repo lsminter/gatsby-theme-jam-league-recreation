@@ -5,7 +5,7 @@
     "site"
   ],
   "dependencies": {
-    "gatsby": "^2.13.50",
+    "gatsby": "^2.32.13",
     "gatsby-theme-events": "file:gatsby-theme-events",
     "react": "^16.8.6",
     "react-dom": "^16.8.6"
